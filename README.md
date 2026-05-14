@@ -1,4 +1,12 @@
 # 🎓 Edualze AI Knowledge Assistant
+![Python](https://img.shields.io/badge/Python-3.9+-blue?style=for-the-badge&logo=python)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge)
+![FAISS](https://img.shields.io/badge/FAISS-Vector_DB-purple?style=for-the-badge)
+![Gemini](https://img.shields.io/badge/Gemini-AI-orange?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-GPT-black?style=for-the-badge&logo=openai)
+![RAG](https://img.shields.io/badge/RAG-Architecture-red?style=for-the-badge)
+![Embeddings](https://img.shields.io/badge/Embeddings-Semantic_Search-green?style=for-the-badge)
 
 An AI-powered GenAI RAG (Retrieval-Augmented Generation) application that enables users to upload PDFs, add website URLs, and search Wikipedia topics to perform intelligent semantic question answering from custom knowledge sources.
 
