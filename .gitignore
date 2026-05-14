@@ -1,0 +1,30 @@
+# ============================================
+# Files to exclude from Git
+# ============================================
+
+# Virtual environment
+venv/
+.venv/
+
+# Environment variables (contains your API key!)
+.env
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Vector store files (generated, can be rebuilt)
+vector_index.pkl
+*.pkl
+
+# Uploaded study materials (user-specific)
+study_materials/
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
